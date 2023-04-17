@@ -12,4 +12,4 @@
  - Executar o comando <code> php artisan migrate </code> que vai realizar a criação das tabelas no banco
  - Executar o comando <code>php artisan serve</code> que vai executar o projeto
  - Na Raiz do Projeto tem uma collection do postman onde tem todos os endpoints configurados.
- - Essa api tem como base o Orion que dispensa a criação de cada endpoint, nos passamos apenas a model e ele se encarrega de criar todos endpoint necessarios.
+ - Essa api tem como base o Orion que dispensa a criação de cada endpoint, nos passamos apenas a model e ele se encarrega de criar todos endpoint necessários.
