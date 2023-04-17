@@ -17,10 +17,7 @@ return new class extends Migration
             $table->id();
             $table->string('title');
             $table->string('subject');
-            $table->string('user_create');
-            $table->string('user_responsible');
             $table->string('status');
-            $table->string('user_update');
             $table->timestamps();
         });
     }

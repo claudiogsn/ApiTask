@@ -13,11 +13,6 @@ class Task extends Model
         'id',
         'title',
         'subject',
-        'user_create',
-        'user_responsible',
         'status',
-        'created_at',
-        'updated_at',
-        'user_update',
     ];
 }
